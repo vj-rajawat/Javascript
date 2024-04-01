@@ -1,12 +1,12 @@
 // Chapter 1
-// Q1
+// Q1 Add number to string variable
 let string = "rajawat" + 10;
 console.log(string);
 
-// Q2
+// Q2 Use typeof operator
 console.log(typeof(string));
 
-// Q3
+// Q3 Assign value to const obj
 const a1 = {
     name: "vijay",
     course: "mca",
@@ -20,7 +20,7 @@ a1['friends'] = "rahul";
 console.log(a1);
 
 
-// Q5
+// Q5 Create dictionary
 let dictionary = {
     "application" : "uses",
     "characteristic" : "khasiyat",
